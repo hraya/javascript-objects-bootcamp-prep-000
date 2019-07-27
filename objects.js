@@ -1,11 +1,11 @@
 var playlist = {
-  'Foo Fighters': 'Everlong',
-  Prince: 'Purple Rain'
+  'The Beatles': 'Yellow Submarine',
+  'Timon and Pumba': 'Hakuna Matata'
 }
 
-function updatePlaylist(playlist, artist, song) {
+function updatePlaylist(playlist, artisName, songTitle) {
 
-  playlist[artist] = song
+  playlist[artistName] = songTitle
 
   return playlist
 }
