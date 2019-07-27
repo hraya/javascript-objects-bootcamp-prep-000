@@ -1,4 +1,4 @@
-var playlist = {
+let playlist = {
   'The Beatles': 'Yellow Submarine',
   'Timon and Pumba': 'Hakuna Matata'
 }
