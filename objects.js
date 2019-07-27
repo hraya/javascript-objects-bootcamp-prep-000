@@ -3,7 +3,7 @@ var playlist = {
   'Timon and Pumba': 'Hakuna Matata'
 }
 
-function updatePlaylist(playlist, artisName, songTitle) {
+function updatePlaylist(playlist, artistName, songTitle) {
 
   playlist[artistName] = songTitle
 
