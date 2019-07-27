@@ -1,4 +1,4 @@
-playlist = {
+let playlist = {
   'The Beatles' : 'Yellow Submarine'
 };
 
