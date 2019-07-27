@@ -1,5 +1,5 @@
 playlist = {};
 
-FunctionupdatePlayList(){
+function updatePlayList(object, key, value){
   
 }
